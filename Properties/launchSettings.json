@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "asynchron": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
